@@ -45,7 +45,7 @@ Project uses [Jazzy] - Version: `0.10.0`
 
 <!--- External -->
 
-[Docs Percentage]: https://github.com/devvman/client-ios-pap/raw/heroku-pages/badge.svg
+[Docs Percentage]: https://raw.github.com/devvman/client-ios-pap/heroku-pages/badge.svg?sanitize=true
 
 [iOS 11]: https://img.shields.io/badge/iOS-11.0-orange.svg
 [iOS]: https://developer.apple.com
