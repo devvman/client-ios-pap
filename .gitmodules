@@ -1,0 +1,4 @@
+[submodule "client-ios-pap"]
+	path = client-ios-pap
+	url = https://github.com/devvman/client-ios-pap.git
+	branch = master
