@@ -1,4 +1,4 @@
-[![iOS 11]][iOS] [![Swift 5.0]][Swift] [![Carthage compatible]][Carthage] [![SPM compatible]][SPM] [![Accio supported]][Accio] ![Docs Percentage]
+[![iOS 11]][iOS] [![Swift 5.0]][Swift] [![Carthage compatible]][Carthage] [![SPM compatible]][SPM] [![Accio supported]][Accio] [![Docs Percentage]][Docs]
 
 # client-ios-pap
 > test for docs
@@ -45,7 +45,8 @@ Project uses [Jazzy] - Version: `0.10.0`
 
 <!--- External -->
 
-[Docs Percentage]: ./badge.svg
+[Docs]: https://client-ios-pap.herokuapp.com/
+[Docs Percentage]: https://raw.github.com/devvman/client-ios-pap/heroku-pages/badge.svg?sanitize=true
 
 [iOS 11]: https://img.shields.io/badge/iOS-11.0-orange.svg
 [iOS]: https://developer.apple.com
