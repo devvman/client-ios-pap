@@ -45,7 +45,7 @@ Project uses [Jazzy] - Version: `0.10.0`
 
 <!--- External -->
 
-[Docs Percentage]: ./docs/badge.svg
+[Docs Percentage]: ./badge.svg
 
 [iOS 11]: https://img.shields.io/badge/iOS-11.0-orange.svg
 [iOS]: https://developer.apple.com
